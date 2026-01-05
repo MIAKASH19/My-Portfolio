@@ -3,10 +3,10 @@ import { motion } from "framer-motion";
 
 const educationData = [
   {
-    degree: "B.Sc. in Computer Science",
+    degree: "Bachelor of Science in Physics",
     institution: "National University",
     year: "2023 - Current",
-    details: "Focused on Web Development, Data Structures, and Software Engineering.",
+    details: "Focused on classical and mechanical physics theory.",
   },
   {
     degree: "Higher Secondary Certificate (HSC)",

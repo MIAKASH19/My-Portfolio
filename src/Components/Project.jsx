@@ -14,7 +14,7 @@ const Projects = () => {
     return (
         <section
             id="projects"
-            className="w-full py-20 bg-gradient-to-r from-indigo-50 to-purple-50"
+            className="w-full py-20 bg-linear-to-r from-indigo-50 to-purple-50"
         >
             <div className="max-w-7xl mx-auto px-6">
                 <motion.h2
