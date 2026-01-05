@@ -1,0 +1,53 @@
+[
+  {
+    "_id": "507f1f77bcf86cd799439011",
+    "name": "Scholar Stream",
+    "image": "https://i.ibb.co/cc1sNGTk/Screenshot-2026-01-05-163010.png",
+    "techStack": "React, Tailwind CSS, Framer Motion, Firebase",
+    "description": "Scholar Stream is an educational platform where students can discover scholarships, skill-development programs, and learning opportunities. The platform focuses on clean UI, smooth animations, and an intuitive user experience.",
+    "liveLink": "https://scholarship-stream-cff4c.web.app/",
+    "githubLink": "https://github.com/MIAKASH19/B12-A11-Scholar-Stream",
+    "challenges": "Ensuring smooth animations while maintaining performance and full responsiveness across all devices.",
+    "futurePlans": "Implement dark mode, add role-based dashboards, and load data dynamically from a backend API.",
+    "otherImage": [
+      "https://i.ibb.co/YTW2Hdqr/Screenshot-2026-01-05-162424.png",
+      "https://i.ibb.co/fd5V24RL/Screenshot-2026-01-05-162441.png",
+      "https://i.ibb.co/6R3tQBmg/Screenshot-2026-01-05-162513.png",
+      "https://i.ibb.co/84bR3D7F/Screenshot-2026-01-05-162546.png"
+    ]
+  },
+  {
+    "_id": "507f191e810c19729de860ea",
+    "name": "Rent Wheels",
+    "image": "https://i.ibb.co/zhVDGZj2/Screenshot-2026-01-05-163403.png",
+    "techStack": "React, Node.js, Express.js, MongoDB, Tailwind CSS",
+    "description": "Rent Wheels is a modern car rental platform that allows users to browse vehicles, view details, and make bookings easily with a smooth user experience.",
+    "liveLink": "https://rent-wheels-client.web.app/",
+    "githubLink": "https://github.com/MIAKASH19/A10-B12-Rent-Wheel-Client",
+    "challenges": "Managing backend API integration, dynamic data handling, and maintaining UI consistency.",
+    "futurePlans": "Add authentication, payment gateway integration, booking history, and an admin dashboard.",
+    "otherImage": [
+      "https://i.ibb.co/zhVDGZj2/Screenshot-2026-01-05-163403.png",
+      "https://i.ibb.co/5X3ypzxQ/Screenshot-2026-01-05-163419.png",
+      "https://i.ibb.co/dw6zvx6Z/Screenshot-2026-01-05-163454.png",
+      "https://i.ibb.co/ynjSqN7b/Screenshot-2026-01-05-163520.png"
+    ]
+  },
+  {
+    "_id": "5e9f8f8f8f8f8f8f8f8f8f8f",
+    "name": "Obys Agency Website",
+    "image": "https://i.ibb.co/KxCXbcFr/Screenshot-2026-01-05-164507.png",
+    "techStack": "HTML, JavaScript, Tailwind CSS, GSAP, Locomotive Scroll",
+    "description": "An animation-driven agency website inspired by modern design studios, focusing on immersive scrolling and motion-based storytelling.",
+    "liveLink": "https://obys-agency-website-delta.vercel.app/index.html",
+    "githubLink": "https://github.com/MIAKASH19/Obys-Agency-website",
+    "challenges": "Synchronizing complex animations using GSAP and Locomotive Scroll without affecting performance.",
+    "futurePlans": "Integrate a CMS, optimize animations further, and add more interactive sections.",
+    "otherImage": [
+      "https://i.ibb.co/KxCXbcFr/Screenshot-2026-01-05-164507.png",
+      "https://i.ibb.co/kVbDGVz6/Screenshot-2026-01-05-164541.png",
+      "https://i.ibb.co/35FvfzcL/Screenshot-2026-01-05-164606.png",
+      "https://i.ibb.co/8LwDThK0/Screenshot-2026-01-05-164641.png"
+    ]
+  }
+]
